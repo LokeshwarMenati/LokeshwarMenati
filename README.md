@@ -1,5 +1,5 @@
 # Hi there, I'm Lokeshwar Menati 👋
-### Full-Stack Developer | Data Enthusiast | Signal Processing Student
+### Full-Stack Develo
 
 ---
 
@@ -27,10 +27,9 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Vue.js, GSAP, Next.js, HTML5, CSS3 |
+| **Frontend** | React, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js |
-| **Data & AI** | Pandas, Matplotlib, Power BI, Python |
-| **Academic** | DSP (Digital Signal Processing), Wireless Communications |
+| **Data & AI** | Pandas, Matplotlib |
 
 ---
 
