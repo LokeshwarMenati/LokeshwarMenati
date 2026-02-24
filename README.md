@@ -1,50 +1,70 @@
-# Hi there, I'm Lokeshwar Menati 👋
-### Full-Stack Develo
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
 
----
+<h1 align="center">Hi 👋, I'm Lokeshwar Menati</h1>
 
-### 🛠 Projects 
+<h3 align="center">A passionate Full-Stack Developer from India. </h3>
 
-#### [Spotify Clone](https://github.com/lokeshwarmenati)
-> A high-fidelity web player built using **HTML, CSS, and JavaScript**. This project focuses on UI/UX replication and smooth media controls.
-* **Tech Stack:** HTML5, CSS3, Vanilla JS
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
-#### [Intelligent Prompt-to-Visualization Agent](https://github.com/lokeshwarmenati)
-> A sophisticated tool designed to convert natural language descriptions into rendered data visualizations. Perfect for bridging the gap between raw data and actionable insights.
-* **Tech Stack:** Python, Pandas, Matplotlib, Prompt Engineering
+### 🙋‍♀️ About Me
+- 🔭 I’m looking to contribute to **Open Source** projects involving **Next.js**.
 
----
+- 🌱 I’m currently exploring the **MERN Stack** and **Power BI**.
 
-### 🔭 Work
-- **👯 Looking to collaborate on:** Open-source projects involving **Next.js** and interactive UI components.
-- **🤝 Looking for help with:** Advanced visualization logic and **GSAP** animations.
-- **🌱 Currently learning:** **MERN Stack** (MongoDB, Express, React, Node.js) and **Power BI**.
-- **⚡ Fun fact:** I think I am funny. Check out my repositories for proof!
+- 👯 I’m looking to collaborate on interactive UI components and **GSAP** animations.
 
----
+- ⚡ **Fun fact:** I think I am funny. Check out my repositories for proof!
 
-### 🛠 Skills
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js |
-| **Data & AI** | Pandas, Matplotlib |
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,express,nodejs,bootstrap" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pandas,mysql,git,github,vscode,postman,powershell" />
+  </a>
+</p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
-### 📊 GitHub Stats & Add-ons
+### 🛠 Featured Projects:
 
-![Visitor Count](https://komarev.com/ghpvc/?username=lokeshwarmenati&color=blue)
+#### 🎵 [Spotify Clone](https://github.com/lokeshwarmenati)
+> A high-fidelity web player focused on UI/UX replication and smooth media controls.
+* **Tech:** HTML5, CSS3, Vanilla JS
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lokeshwarmenati)](https://github.com/ryo-ma/github-profile-trophy)
+#### 📊 [Intelligent Prompt-to-Visualization Agent](https://github.com/lokeshwarmenati)
+> Converts natural language into rendered data visualizations.
+* **Tech:** Python, Pandas, Matplotlib, Prompt Engineering
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+  
+### 📊 GitHub Stats:
+![Visitor Count](https://komarev.com/ghpvc/?username=lokeshwarmenati&color=blue)<br/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lokeshwarmenati)](https://github.com/ryo-ma/github-profile-trophy)<br/>
 ![Lokeshwar's Stats](https://github-readme-stats.vercel.app/api?username=lokeshwarmenati&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwarmenati&layout=compact&theme=radical)
 
----
-
-### 🔗 Socials & Support
-- **GitHub:** [@lokeshwarmenati](https://github.com/lokeshwarmenati)
-- **Portfolio:** [Link to your portfolio]
-- **Resume:** [Link to your resume]
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+  
+### 📬 Reach me out:
+<p align="left">
+<a href="https://github.com/lokeshwarmenati"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
