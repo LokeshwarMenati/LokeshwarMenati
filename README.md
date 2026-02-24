@@ -31,7 +31,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
+    <img src="https://skillicons.dev/icons?i=fastapi,django,git,github,xd" />
   </a>
 </p>
 
