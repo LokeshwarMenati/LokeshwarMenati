@@ -23,15 +23,17 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-### 🛠 Projects 
-
-#### [Spotify Clone](https://github.com/lokeshwarmenati)
-> A high-fidelity web player built using **HTML, CSS, and JavaScript**. This project focuses on UI/UX replication and smooth media controls.
-* **Tech Stack:** HTML5, CSS3, Vanilla JS
-
-#### [Intelligent Prompt-to-Visualization Agent](https://github.com/lokeshwarmenati)
-> A sophisticated tool designed to convert natural language descriptions into rendered data visualizations.
-* **Tech Stack:** Python, Pandas, Matplotlib, Prompt Engineering
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,bootstrap,react,nodejs" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -41,11 +43,24 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Data & AI** | <img src="https://skillicons.dev/icons?i=py,pandas" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css" /> React, HTML5, CSS3 |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> Node.js, Express.js |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql" /> MySQL (SQL) |
+| **Data & AI** | <img src="https://skillicons.dev/icons?i=py,pandas" /> Pandas, Matplotlib |
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+
+### 🛠 Projects 
+
+#### [Spotify Clone](https://github.com/lokeshwarmenati)
+> A high-fidelity web player built using **HTML, CSS, and JavaScript**. This project focuses on UI/UX replication and smooth media controls.
+* **Tech Stack:** HTML5, CSS3, Vanilla JS
+
+#### [Intelligent Prompt-to-Visualization Agent](https://github.com/lokeshwarmenati)
+> A sophisticated tool designed to convert natural language descriptions into rendered data visualizations.
+* **Tech Stack:** Python, Pandas, Matplotlib, Prompt Engineering
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
