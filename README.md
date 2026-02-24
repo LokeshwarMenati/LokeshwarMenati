@@ -31,7 +31,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,git,github,xd" />
+    <img src="https://skillicons.dev/icons?i=,django,git,github,xd" />
   </a>
 </p>
 
@@ -39,18 +39,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-### 🛠 Lokeshwar Menati's Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css" /> React, HTML5, CSS3 |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> Node.js, Express.js |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql" /> MySQL (SQL) |
-| **Data & AI** | <img src="https://skillicons.dev/icons?i=py,pandas" /> Pandas, Matplotlib |
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
 
 ### 🛠 Projects 
 
