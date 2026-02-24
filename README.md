@@ -37,13 +37,13 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-### 🛠 Skills
+### 🛠 Lokeshwar Menati's Skills
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js |
-| **Data & AI** | Pandas, Matplotlib |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| **Data & AI** | <img src="https://skillicons.dev/icons?i=py,pandas" /> |
 
 ---
 
@@ -64,5 +64,5 @@
 ### 📬 Reach me out:
 <p align="left">
 <a href="https://github.com/lokeshwarmenati"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="mailto:lokeshwarmenati@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
