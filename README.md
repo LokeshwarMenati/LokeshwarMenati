@@ -13,9 +13,7 @@
 ### 🙋‍♀️ About Me
 - 🔭 I’m looking to contribute to **Open Source** projects involving **Next.js**.
 
-- 🌱 I’m currently exploring the **MERN Stack** and **Power BI**.
-
-- 👯 I’m looking to collaborate on interactive UI components and **GSAP** animations.
+- 🌱 I’m currently exploring the **Full-Stack Developek** and **Power BI**.
 
 - ⚡ **Fun fact:** I think I am funny. Check out my repositories for proof!
 
