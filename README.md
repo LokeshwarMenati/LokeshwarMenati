@@ -13,7 +13,7 @@
 ### 🙋‍♀️ About Me
 - 🔭 I’m looking to contribute to **Open Source** projects involving **Next.js**.
 
-- 🌱 I’m currently exploring the **Full-Stack Developek** and **Power BI**.
+- 🌱 I’m currently exploring the **Full-Stack Developer**.
 
 - ⚡ **Fun fact:** I think I am funny. Check out my repositories for proof!
 
