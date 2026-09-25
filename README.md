@@ -105,7 +105,7 @@
 
 * **Tech Stack:** Python, FastAPI, React.js, Plotly, Pandas, Matplotlib, Prompt Engineering
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://intelligent-prompt-to-visualization-eight.vercel.app/)
 
 ---
 
@@ -116,7 +116,7 @@
 
 * **Tech Stack:** Python, AI, HTML, CSS, JavaScript
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://frontend-sand-eight-xya4czd8dy.vercel.app/)
 
 ---
 
@@ -127,7 +127,7 @@
 
 * **Tech Stack:** HTML, CSS, JavaScript
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://primeform.netlify.app/)
 
 ---
 
@@ -138,7 +138,7 @@
 
 * **Tech Stack:** AI, Python, HTML, CSS, JavaScript
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://craft-cv-ai.vercel.app/)
 
 ---
 
@@ -149,7 +149,7 @@
 
 * **Tech Stack:** Python, FastAPI, REST API, SQL
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://smart-expense-tracker-api-brown.vercel.app/)
 
 ---
 
@@ -160,7 +160,7 @@
 
 * **Tech Stack:** Python, System Monitoring, Automation
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://frontend-lokeshwarmenatis-projects.vercel.app/)
 
 ---
 
@@ -171,7 +171,7 @@
 
 * **Tech Stack:** Python, AI, HTML, CSS, JavaScript
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://smart-assignments.vercel.app/)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
