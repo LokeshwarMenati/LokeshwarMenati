@@ -83,7 +83,7 @@
 
 * **Tech Stack:** Python, AI, Machine Learning
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://ai-personal-assistant-for-students.vercel.app/)
 
 ---
 
@@ -94,7 +94,7 @@
 
 * **Tech Stack:** Python, OpenCV, LBPH Face Recognition, SQLite, MySQL
 
-🔗 **Live Demo:** [View here](YOUR_DEMO_LINK)
+🔗 **Live Demo:** [View here](https://ai-powered-face-recognition-attenda-six.vercel.app/)
 
 ---
 
