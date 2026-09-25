@@ -37,8 +37,6 @@
   </a>
 </p>
 
-**HTML5 • CSS3 • Bootstrap • React.js • Node.js • Django • FastAPI**
-
 #### 🤖 AI, ML & Data Visualization
 
 <p align="left">
@@ -47,7 +45,6 @@
   </a>
 </p>
 
-**TensorFlow • OpenCV • Pandas • Plotly • Matplotlib • Prompt Engineering**
 
 #### 🗄️ Databases
 
@@ -57,7 +54,6 @@
   </a>
 </p>
 
-**MySQL • SQLite • SQL**
 
 #### 🔧 Tools & Platforms
 
@@ -67,11 +63,6 @@
   </a>
 </p>
 
-**Git • GitHub • Arduino • Arduino IDE • ESP8266**
-
-#### 🖥️ Operating Systems & Fundamentals
-
-**Linux • Windows • Object-Oriented Programming (OOP) • Data Structures • Algorithms • TCP/IP • Networking**
 
 
 <p>
