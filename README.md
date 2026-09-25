@@ -25,10 +25,9 @@
 #### 👨‍💻 Programming Languages
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-  </a>
-</p>
+  <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />   </a> </p>
+
+**Python • Java • C  • JavaScript**
 
 #### 🌐 Frontend & Backend
 
@@ -38,6 +37,8 @@
   </a>
 </p>
 
+**HTML5 • CSS3 • Bootstrap • React.js • Node.js • Django • FastAPI**
+
 #### 🤖 AI, ML & Data Visualization
 
 <p align="left">
@@ -46,9 +47,7 @@
   </a>
 </p>
 
-<p>
-  <strong>AI / Data:</strong> Pandas, Plotly, Matplotlib, Prompt Engineering
-</p>
+**TensorFlow • OpenCV • Pandas • Plotly • Matplotlib • Prompt Engineering**
 
 #### 🗄️ Databases
 
@@ -58,6 +57,8 @@
   </a>
 </p>
 
+**MySQL • SQLite • SQL**
+
 #### 🔧 Tools & Platforms
 
 <p align="left">
@@ -65,6 +66,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,arduino" />
   </a>
 </p>
+
+**Git • GitHub • Arduino • Arduino IDE • ESP8266**
+
+#### 🖥️ Operating Systems & Fundamentals
+
+**Linux • Windows • Object-Oriented Programming (OOP) • Data Structures • Algorithms • TCP/IP • Networking**
+
 
 <p>
   <strong>Additional:</strong> Arduino IDE, ESP8266, Linux, Windows
