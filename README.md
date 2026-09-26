@@ -1,127 +1,176 @@
-<!-- ========================================= -->
-<!-- 🚀 HEADER BANNER & TYPING ANIMATION -->
-<!-- ========================================= -->
+<!-- ====================================================== -->
+<!-- 🌌 ADVANCED CYBERPUNK HUD HEADER & DYNAMIC ANIMATIONS -->
+<!-- ====================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=180&section=header&text=Lokeshwar%20Menati&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
+  <!-- Dynamic Animated Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,25,32&height=200&section=header&text=LOKESHWAR%20MENATI&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Architect%20%7C%20AI%20%26%20Vision%20Engineer&descSize=18&descAlignY=68" width="100%"/>
+
   <br/>
-  
+
+  <!-- Advanced Dual-Line Typewriter SVG -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Lokeshwar+Menati;Passionate+Full-Stack+Developer;AI+%26+Computer+Vision+Explorer;Building+Scalable+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=false&width=620&height=45&lines=%3E_System.init()%3A+Welcome+to+my+digital+universe;%3E_Specializing+in+Full-Stack+%26+Next.js+Applications;%3E_Engineering+Autonomous+AI+%26+Computer+Vision+Engines;%3E_Crafting+High-Performance+Scalable+Architectures" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/LokeshwarMenati">
-    <img width="460" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation">
-  </a>
+  <!-- Futuristic Holographic Terminal Animation -->
+  <table border="0" align="center">
+    <tr align="center">
+      <td>
+        <img width="500" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Holographic Developer Workspace">
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
+  <br/>
 
-  [![Visitor Count](https://komarev.com/ghpvc/?username=lokeshwarmenati&color=00D2FF&style=flat-square)](https://github.com/LokeshwarMenati)
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Collaborate-22c55e?style=flat-square" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location" />
+  <!-- Live Status & Metrics Bar -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/NODE_STATUS-ONLINE-00ff66?style=for-the-badge&logo=statuspal&logoColor=black" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/CLEARANCE-FULL--STACK_DEV-00d2ff?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/LOCATION-INDIA_🌏-ff007f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    &nbsp;
+    <a href="https://komarev.com/ghpvc/?username=lokeshwarmenati">
+      <img src="https://img.shields.io/badge/PROFILE_VIEWS-RADAR_ACTIVE-a855f7?style=for-the-badge&logo=radar" alt="Visitors" />
+    </a>
+  </p>
+
+  <!-- Pulsing Audio Waveform / Cyber Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="28" alt="Audio Waveform Divider" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
+<br/>
 
-### 🙋‍♂️ About Me
+<!-- ====================================================== -->
+<!-- 🕹️ ADVANCED ANIMATED TECH RADAR (STREAMING MARQUEE)   -->
+<!-- ====================================================== -->
 
-```yaml
-name: Lokeshwar Menati
-role: Full-Stack Developer
-location: India
-focus: Modern Web Apps & Artificial Intelligence
-current_goal: Contributing to open-source ecosystems (Next.js, Python, FastAPI)
-fun_fact: "I think I am funny. Check out my repositories for proof!"
+### ⚡ Dynamic Tech Radar (Live Stream)
+
+<div align="center">
+  <p><i>Continuous tech stack stream & real-time skill telemetry</i></p>
+
+  <!-- Stream Row 1 (Moving Left) -->
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,django,tensorflow,opencv,tailwind,html,css&theme=dark" />
+  </marquee>
+
+  <br/>
+
+  <!-- Stream Row 2 (Moving Right) -->
+  <marquee behavior="scroll" direction="right" scrollamount="7">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,git,github,docker,postman,vscode,arduino,linux,c,java&theme=dark" />
+  </marquee>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=11,19,25,32&height=20&section=footer" width="100%" />
+</div>
+
+<!-- ====================================================== -->
+<!-- 🛸 ABOUT THE OPERATOR (TERMINAL VIEW)                  -->
+<!-- ====================================================== -->
+
+### 👨‍💻 System Operator Profile
+
+```bash
+$ cat << 'EOF' > operator_profile.json
+{
+  "name": "Lokeshwar Menati",
+  "archetype": "Full-Stack Software Engineer & AI Researcher",
+  "core_competencies": [
+    "High-Concurrency Web Systems (Next.js, FastAPI, React)",
+    "Computer Vision & Deep Learning (OpenCV, TensorFlow)",
+    "Distributed DBs & REST APIs (MySQL, SQLite, PostgreSQL)"
+  ],
+  "current_directive": "Scaling real-world AI applications & Open-Source contributions",
+  "fun_fact": "I think I am funny. Check out my repositories for mathematical proof!"
+}
+EOF
 ```
 
-- 🔭 **Open Source:** Passionate about contributing to projects involving **Next.js**, **React**, and **Python**.
-- 🌱 **Learning & Exploring:** Advanced Full-Stack Architecture, Real-Time Systems, and Deep Learning / CV.
-- 💬 **Ask me about:** Python, FastAPI, React, OpenCV, Database design, and automation.
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
-
-### 💻 Tech Stack
+- 🚀 **Next-Gen Horizons:** Constructing autonomous AI agents, prompt-driven UI systems, and self-healing cloud pipelines.
+- 🔭 **Open-Source Active:** Ready to contribute to scalable web engines, UI component libraries, and AI developer tooling.
+- ⚡ **Collaborate:** [Schedule a conversation](mailto:lokeshwarmenati@gmail.com) on visionary projects.
 
 <div align="center">
-
-#### 👨‍💻 Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript&theme=dark" />
-</a>
-
-<br/>
-
-#### 🌐 Web Frameworks & Libraries
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,html,css,bootstrap,tailwind&theme=dark" />
-</a>
-
-<br/>
-
-#### 🤖 AI, Machine Learning & Computer Vision
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-</a>
-
-<br/>
-
-#### 🗄️ Databases & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" />
-</a>
-
-<br/>
-
-#### 🔧 Tools & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,arduino&theme=dark" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=11,19,25,32&height=20&section=footer" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
+<!-- ====================================================== -->
+<!-- 🐍 RETRO SNAKE EATING GITHUB COMMITS (ACTION POWERED)  -->
+<!-- ====================================================== -->
 
-### 🛠 Featured Projects
+### 🐍 Contribution Arena (Snake Game Simulation)
 
-| Project | Tech Stack | Highlights | Links |
+<div align="center">
+  <p><i>Real-time automated snake traversing GitHub contribution coordinates</i></p>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LokeshwarMenati/LokeshwarMenati/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LokeshwarMenati/LokeshwarMenati/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LokeshwarMenati/LokeshwarMenati/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="28" alt="Audio Waveform Divider" />
+</div>
+
+<!-- ====================================================== -->
+<!-- 🛠️ FEATURED MISSION PROJECTS                           -->
+<!-- ====================================================== -->
+
+### 🛠️ Featured Mission Projects
+
+| Protocol / Project | Architecture & Stack | Mission Objective | Deployment |
 | :--- | :--- | :--- | :---: |
-| **🤖 AI Personal Assistant for Students** | `Python` `AI` `ML` | Smart student-focused assistant for academic productivity & workflows. | [Repo](https://github.com/LokeshwarMenati/AI-Personal-Assistant-for-Students) • [Live Demo](https://ai-personal-assistant-for-students.vercel.app/) |
-| **👁️ AI Face Recognition Attendance** | `Python` `OpenCV` `LBPH` `MySQL` | Automated biometric attendance logging using real-time computer vision. | [Repo](https://github.com/LokeshwarMenati/AI-Powered-Face-Recognition-Attendance-System) • [Live Demo](https://ai-powered-face-recognition-attenda-six.vercel.app/) |
-| **📊 Intelligent Prompt-to-Visualization** | `FastAPI` `React` `Plotly` `Pandas` | Converts natural-language user queries into dynamic interactive chart visuals. | [Repo](https://github.com/LokeshwarMenati/Intelligent-Prompt-to-Visualization-Agent) • [Live Demo](https://intelligent-prompt-to-visualization-eight.vercel.app/) |
-| **📄 Resume.ai Maker** | `Python` `AI` `JavaScript` `CSS` | Intelligent resume-building platform that formats and organizes CV content. | [Repo](https://github.com/LokeshwarMenati/Resume.ai-maker) • [Live Demo](https://frontend-sand-eight-xya4czd8dy.vercel.app/) |
-| **🧪 PRIMEFORM LABS** | `HTML5` `CSS3` `JavaScript` | Modern, responsive, interactive digital laboratory and utility experience. | [Repo](https://github.com/LokeshwarMenati/PRIMEFORM-LABS) • [Live Demo](https://primeform.netlify.app/) |
-| **🎨 CraftCV.ai** | `AI` `Python` `HTML` `CSS` `JS` | AI-assisted CV generation suite for polished and professional resumes. | [Repo](https://github.com/LokeshwarMenati/CraftCV.ai) • [Live Demo](https://craft-cv-ai.vercel.app/) |
-| **💰 Smart Expense Tracker API** | `Python` `FastAPI` `REST` `SQL` | High-performance backend API for categorizing and auditing personal finance. | [Repo](https://github.com/LokeshwarMenati/Smart-Expense-Tracker-API) • [Live Demo](https://smart-expense-tracker-api-brown.vercel.app/) |
-| **🖥️ Self-Healing Control Room** | `Python` `Automation` `Monitoring` | Autonomous recovery workflows and incident monitoring control station. | [Repo](https://github.com/LokeshwarMenati/Self-healing-control-room) • [Live Demo](https://frontend-lokeshwarmenatis-projects.vercel.app/) |
-| **📝 Smart Assignments** | `Python` `AI` `JavaScript` `CSS` | Digital platform assisting students in managing assignment submission schedules. | [Repo](https://github.com/LokeshwarMenati/Smart-Assignments) • [Live Demo](https://smart-assignments.vercel.app/) |
+| **🤖 AI Personal Assistant for Students** | `Python` `NLP` `ML` `FastAPI` | Student-focused intelligence agent for academic workflow acceleration. | [Source](https://github.com/LokeshwarMenati/AI-Personal-Assistant-for-Students) • [🚀 Demo](https://ai-personal-assistant-for-students.vercel.app/) |
+| **👁️ AI Face Recognition Attendance** | `OpenCV` `LBPH` `MySQL` `Python` | Real-time biometric attendance tracker with automated recognition logs. | [Source](https://github.com/LokeshwarMenati/AI-Powered-Face-Recognition-Attendance-System) • [🚀 Demo](https://ai-powered-face-recognition-attenda-six.vercel.app/) |
+| **📊 Prompt-to-Visualization Agent** | `FastAPI` `React` `Plotly` `Pandas` | Converts natural prompt queries into reactive, dynamic visual dashboards. | [Source](https://github.com/LokeshwarMenati/Intelligent-Prompt-to-Visualization-Agent) • [🚀 Demo](https://intelligent-prompt-to-visualization-eight.vercel.app/) |
+| **📄 Resume.ai Maker** | `Python` `AI` `JavaScript` `CSS` | Generative resume constructor synthesizing ATS-optimized profiles. | [Source](https://github.com/LokeshwarMenati/Resume.ai-maker) • [🚀 Demo](https://frontend-sand-eight-xya4czd8dy.vercel.app/) |
+| **🧪 PRIMEFORM LABS** | `HTML5` `CSS3` `JavaScript` | Futuristic interactive digital experiment suite with reactive UI. | [Source](https://github.com/LokeshwarMenati/PRIMEFORM-LABS) • [🚀 Demo](https://primeform.netlify.app/) |
+| **🎨 CraftCV.ai** | `AI Engine` `Python` `Modern JS` | Automated digital curriculum vitae generation with dynamic styling. | [Source](https://github.com/LokeshwarMenati/CraftCV.ai) • [🚀 Demo](https://craft-cv-ai.vercel.app/) |
+| **💰 Smart Expense Tracker API** | `Python` `FastAPI` `SQL` `REST` | Ultra-fast financial microservice providing analytics endpoints. | [Source](https://github.com/LokeshwarMenati/Smart-Expense-Tracker-API) • [🚀 Demo](https://smart-expense-tracker-api-brown.vercel.app/) |
+| **🖥️ Self-Healing Control Room** | `Python` `Automation` `DevOps` | Automated incident remediation engine featuring self-healing triggers. | [Source](https://github.com/LokeshwarMenati/Self-healing-control-room) • [🚀 Demo](https://frontend-lokeshwarmenatis-projects.vercel.app/) |
+| **📝 Smart Assignments** | `Python` `AI` `Web Stack` | Smart task manager streamlining assignment pipelines for students. | [Source](https://github.com/LokeshwarMenati/Smart-Assignments) • [🚀 Demo](https://smart-assignments.vercel.app/) |
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=11,19,25,32&height=20&section=footer" width="100%" />
+</div>
 
-### 📊 GitHub Activity & Stats
+<!-- ====================================================== -->
+<!-- 📈 ADVANCED TELEMETRY & ANIMATED ACTIVITY GRAPHS       -->
+<!-- ====================================================== -->
+
+### 📊 Real-Time Developer Telemetry
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lokeshwarmenati&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Animated Streak Stats -->
+  <!-- Interactive Dynamic Activity Waveform Graph -->
   <a href="https://github.com/LokeshwarMenati">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshwarmenati&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshwarmenati&theme=react-dark&custom_title=Git%20Commit%20Frequency%20Telemetry&point=00F0FF&area=true&hide_border=true" width="95%" alt="Activity Waveform Graph" />
   </a>
 
   <br/><br/>
 
-  <!-- Stats & Top Languages -->
+  <!-- Animated Streak Counter -->
+  <a href="https://github.com/LokeshwarMenati">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshwarmenati&theme=radical&hide_border=true&card_width=620" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Side-by-Side Neon Stats & Top Languages -->
   <a href="https://github.com/LokeshwarMenati">
     <img src="https://github-readme-stats.vercel.app/api?username=lokeshwarmenati&show_icons=true&theme=radical&hide_border=true" alt="Lokeshwar's Stats" />
   </a>
@@ -130,16 +179,29 @@ fun_fact: "I think I am funny. Check out my repositories for proof!"
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwarmenati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 
+  <br/><br/>
+
+  <!-- 3D Trophy Showcase -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lokeshwarmenati&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="28" alt="Audio Waveform Divider" />
+</div>
 
-### 📬 Connect With Me
+<!-- ====================================================== -->
+<!-- 🛰️ TRANSMISSION CHANNELS (CONNECT)                    -->
+<!-- ====================================================== -->
+
+### 🛰️ Connect With The Operator
 
 <div align="center">
 
   <a href="https://github.com/LokeshwarMenati" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lokeshwarmenati/" target="_blank">
@@ -147,11 +209,12 @@ fun_fact: "I think I am funny. Check out my repositories for proof!"
   </a>
   &nbsp;&nbsp;
   <a href="mailto:lokeshwarmenati@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=100&section=footer" width="100%"/>
+  <!-- Animated Cyber Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,25,32&height=120&section=footer" width="100%"/>
 
 </div>
