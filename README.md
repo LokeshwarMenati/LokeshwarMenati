@@ -23,16 +23,18 @@
 
   <br/><br/>
 
-  <!-- Live Status & Telemetry Badges -->
+  <!-- Live Status & Portfolio Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/NODE_STATUS-ONLINE-00ff66?style=for-the-badge&logo=statuspal&logoColor=black" alt="Status" />
+    <a href="https://lokeshwarmenati.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_SHOWCASE-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/CLEARANCE-FULL--STACK_DEV-00d2ff?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance" />
+    <img src="https://img.shields.io/badge/NODE_STATUS-ONLINE-00ff66?style=for-the-badge&logo=statuspal&logoColor=black" alt="Status" />
     &nbsp;
     <img src="https://img.shields.io/badge/LOCATION-INDIA_🌏-ff007f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     &nbsp;
     <a href="https://komarev.com/ghpvc/?username=lokeshwarmenati">
-      <img src="https://img.shields.io/badge/PROFILE_VIEWS-RADAR_ACTIVE-a855f7?style=for-the-badge&logo=radar" alt="Visitors" />
+      <img src="https://img.shields.io/badge/VIEWS-ACTIVE-a855f7?style=for-the-badge&logo=radar" alt="Visitors" />
     </a>
   </p>
 
@@ -75,6 +77,7 @@ $ cat << 'EOF' > operator_profile.json
 {
   "name": "Lokeshwar Menati",
   "archetype": "Full-Stack Software Engineer & AI Researcher",
+  "portfolio": "https://lokeshwarmenati.vercel.app/",
   "core_competencies": [
     "High-Concurrency Web Systems (Next.js, FastAPI, React)",
     "Computer Vision & Deep Learning (OpenCV, TensorFlow)",
@@ -88,7 +91,7 @@ EOF
 
 - 🚀 **Next-Gen Horizons:** Constructing autonomous AI agents, prompt-driven UI systems, and self-healing cloud pipelines.
 - 🔭 **Open-Source Active:** Ready to contribute to scalable web engines, UI component libraries, and AI developer tooling.
-- ⚡ **Collaborate:** [Schedule a conversation](mailto:lokeshwarmenati@gmail.com) on visionary projects.
+- 🌐 **Interactive Portfolio:** Explore live interactive demos and experience highlights at [lokeshwarmenati.vercel.app](https://lokeshwarmenati.vercel.app/).
 
 ---
 
@@ -113,19 +116,12 @@ EOF
 ---
 
 <!-- ====================================================== -->
-<!-- 📈 ADVANCED TELEMETRY & ANIMATED ACTIVITY GRAPHS       -->
+<!-- 📈 REAL-TIME DEVELOPER TELEMETRY                      -->
 <!-- ====================================================== -->
 
 ### 📊 Real-Time Developer Telemetry
 
 <div align="center">
-
-  <!-- Interactive Dynamic Activity Waveform Graph -->
-  <a href="https://github.com/LokeshwarMenati">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshwarmenati&theme=react-dark&custom_title=Git%20Commit%20Frequency%20Telemetry&point=00F0FF&area=true&hide_border=true" width="95%" alt="Activity Waveform Graph" />
-  </a>
-
-  <br/><br/>
 
   <!-- Animated Streak Counter -->
   <a href="https://github.com/LokeshwarMenati">
@@ -134,20 +130,13 @@ EOF
 
   <br/><br/>
 
-  <!-- Side-by-Side Neon Stats & Top Languages -->
+  <!-- Side-by-Side Stats & Top Languages (Fast & Reliable CDN) -->
   <a href="https://github.com/LokeshwarMenati">
-    <img src="https://github-readme-stats.vercel.app/api?username=lokeshwarmenati&show_icons=true&theme=radical&hide_border=true" alt="Lokeshwar's Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=lokeshwarmenati&show_icons=true&theme=radical&hide_border=true" alt="Lokeshwar's Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/LokeshwarMenati">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwarmenati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <!-- 3D Trophy Showcase -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lokeshwarmenati&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lokeshwarmenati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 
 </div>
@@ -155,15 +144,19 @@ EOF
 ---
 
 <!-- ====================================================== -->
-<!-- 🛰️ TRANSMISSION CHANNELS (CONNECT)                    -->
+<!-- 🌐 PORTFOLIO & SOCIAL CHANNELS                         -->
 <!-- ====================================================== -->
 
-### 🛰️ Connect With The Operator
+### 🌐 Portfolio & Connect
 
 <div align="center">
 
+  <a href="https://lokeshwarmenati.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-lokeshwarmenati.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/LokeshwarMenati" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lokeshwarmenati/" target="_blank">
@@ -176,9 +169,8 @@ EOF
 
   <br/><br/>
 
-  <!-- High Reliability Neon Footer -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=35&lines=Thank+you+for+visiting!;%3E_End+of+transmission." alt="Footer Typing" />
+  <a href="https://lokeshwarmenati.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&height=35&lines=%E2%9E%9C+Explore+my+featured+works+at+lokeshwarmenati.vercel.app;%E2%9E%9C+Open+for+Full-Stack+%26+AI+opportunities!" alt="Portfolio Typing" />
   </a>
 
 </div>
