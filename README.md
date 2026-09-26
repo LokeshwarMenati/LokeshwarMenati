@@ -101,17 +101,17 @@ EOF
 
 ### 🛠️ Featured Mission Projects
 
-| Protocol / Project | Architecture & Stack | Mission Objective | Deployment |
+| Protocol / Project | Architecture & Stack | Mission Objective | Link |
 | :--- | :--- | :--- | :---: |
-| **🤖 AI Personal Assistant for Students** | `Python` `NLP` `ML` `FastAPI` | Student-focused intelligence agent for academic workflow acceleration. | [Source](https://github.com/LokeshwarMenati/AI-Personal-Assistant-for-Students) • [🚀 Demo](https://ai-personal-assistant-for-students.vercel.app/) |
-| **👁️ AI Face Recognition Attendance** | `OpenCV` `LBPH` `MySQL` `Python` | Real-time biometric attendance tracker with automated recognition logs. | [Source](https://github.com/LokeshwarMenati/AI-Powered-Face-Recognition-Attendance-System) • [🚀 Demo](https://ai-powered-face-recognition-attenda-six.vercel.app/) |
-| **📊 Prompt-to-Visualization Agent** | `FastAPI` `React` `Plotly` `Pandas` | Converts natural prompt queries into reactive, dynamic visual dashboards. | [Source](https://github.com/LokeshwarMenati/Intelligent-Prompt-to-Visualization-Agent) • [🚀 Demo](https://intelligent-prompt-to-visualization-eight.vercel.app/) |
-| **📄 Resume.ai Maker** | `Python` `AI` `JavaScript` `CSS` | Generative resume constructor synthesizing ATS-optimized profiles. | [Source](https://github.com/LokeshwarMenati/Resume.ai-maker) • [🚀 Demo](https://frontend-sand-eight-xya4czd8dy.vercel.app/) |
-| **🧪 PRIMEFORM LABS** | `HTML5` `CSS3` `JavaScript` | Futuristic interactive digital experiment suite with reactive UI. | [Source](https://github.com/LokeshwarMenati/PRIMEFORM-LABS) • [🚀 Demo](https://primeform.netlify.app/) |
-| **🎨 CraftCV.ai** | `AI Engine` `Python` `Modern JS` | Automated digital curriculum vitae generation with dynamic styling. | [Source](https://github.com/LokeshwarMenati/CraftCV.ai) • [🚀 Demo](https://craft-cv-ai.vercel.app/) |
-| **💰 Smart Expense Tracker API** | `Python` `FastAPI` `SQL` `REST` | Ultra-fast financial microservice providing analytics endpoints. | [Source](https://github.com/LokeshwarMenati/Smart-Expense-Tracker-API) • [🚀 Demo](https://smart-expense-tracker-api-brown.vercel.app/) |
-| **🖥️ Self-Healing Control Room** | `Python` `Automation` `DevOps` | Automated incident remediation engine featuring self-healing triggers. | [Source](https://github.com/LokeshwarMenati/Self-healing-control-room) • [🚀 Demo](https://frontend-lokeshwarmenatis-projects.vercel.app/) |
-| **📝 Smart Assignments** | `Python` `AI` `Web Stack` | Smart task manager streamlining assignment pipelines for students. | [Source](https://github.com/LokeshwarMenati/Smart-Assignments) • [🚀 Demo](https://smart-assignments.vercel.app/) |
+| [**🤖 AI Personal Assistant for Students**](https://github.com/LokeshwarMenati/AI-Personal-Assistant-for-Students) | `Python` `NLP` `ML` `FastAPI` | Student-focused intelligence agent for academic workflow acceleration. | [Link ↗](https://ai-personal-assistant-for-students.vercel.app/) |
+| [**👁️ AI Face Recognition Attendance**](https://github.com/LokeshwarMenati/AI-Powered-Face-Recognition-Attendance-System) | `OpenCV` `LBPH` `MySQL` `Python` | Real-time biometric attendance tracker with automated recognition logs. | [Link ↗](https://ai-powered-face-recognition-attenda-six.vercel.app/) |
+| [**📊 Prompt-to-Visualization Agent**](https://github.com/LokeshwarMenati/Intelligent-Prompt-to-Visualization-Agent) | `FastAPI` `React` `Plotly` `Pandas` | Converts natural prompt queries into reactive, dynamic visual dashboards. | [Link ↗](https://intelligent-prompt-to-visualization-eight.vercel.app/) |
+| [**📄 Resume.ai Maker**](https://github.com/LokeshwarMenati/Resume.ai-maker) | `Python` `AI` `JavaScript` `CSS` | Generative resume constructor synthesizing ATS-optimized profiles. | [Link ↗](https://frontend-sand-eight-xya4czd8dy.vercel.app/) |
+| [**🧪 PRIMEFORM LABS**](https://github.com/LokeshwarMenati/PRIMEFORM-LABS) | `HTML5` `CSS3` `JavaScript` | Futuristic interactive digital experiment suite with reactive UI. | [Link ↗](https://primeform.netlify.app/) |
+| [**🎨 CraftCV.ai**](https://github.com/LokeshwarMenati/CraftCV.ai) | `AI Engine` `Python` `Modern JS` | Automated digital curriculum vitae generation with dynamic styling. | [Link ↗](https://craft-cv-ai.vercel.app/) |
+| [**💰 Smart Expense Tracker API**](https://github.com/LokeshwarMenati/Smart-Expense-Tracker-API) | `Python` `FastAPI` `SQL` `REST` | Ultra-fast financial microservice providing analytics endpoints. | [Link ↗](https://smart-expense-tracker-api-brown.vercel.app/) |
+| [**🖥️ Self-Healing Control Room**](https://github.com/LokeshwarMenati/Self-healing-control-room) | `Python` `Automation` `DevOps` | Automated incident remediation engine featuring self-healing triggers. | [Link ↗](https://frontend-lokeshwarmenatis-projects.vercel.app/) |
+| [**📝 Smart Assignments**](https://github.com/LokeshwarMenati/Smart-Assignments) | `Python` `AI` `Web Stack` | Smart task manager streamlining assignment pipelines for students. | [Link ↗](https://smart-assignments.vercel.app/) |
 
 ---
 
