@@ -1,32 +1,29 @@
 <!-- ====================================================== -->
-<!-- 🌌 ADVANCED CYBERPUNK HUD HEADER & DYNAMIC ANIMATIONS -->
+<!-- 🌌 CYBERPUNK HUD HEADER & DYNAMIC ANIMATIONS -->
 <!-- ====================================================== -->
 
 <div align="center">
-  <!-- Dynamic Animated Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,25,32&height=200&section=header&text=LOKESHWAR%20MENATI&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Architect%20%7C%20AI%20%26%20Vision%20Engineer&descSize=18&descAlignY=68" width="100%"/>
+
+  <!-- Primary Animated Title (Typewriter SVG - High Performance & 100% Compatible) -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=55&lines=%E2%96%B6+LOKESHWAR+MENATI;%E2%96%B6+FULL-STACK+ARCHITECT+%7C+AI+ENGINEER" alt="Header" />
+  </a>
 
   <br/>
 
-  <!-- Advanced Dual-Line Typewriter SVG -->
+  <!-- Subtitle Dynamic Terminal Stream -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=false&width=620&height=45&lines=%3E_System.init()%3A+Welcome+to+my+digital+universe;%3E_Specializing+in+Full-Stack+%26+Next.js+Applications;%3E_Engineering+Autonomous+AI+%26+Computer+Vision+Engines;%3E_Crafting+High-Performance+Scalable+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=680&height=40&lines=%3E_Architecting+Modern+Full-Stack+Platforms;%3E_Specializing+in+Next.js%2C+FastAPI+%26+React;%3E_Building+Intelligent+AI+%26+Computer+Vision+Engines" alt="Subtyping" />
   </a>
 
   <br/><br/>
 
-  <!-- Futuristic Holographic Terminal Animation -->
-  <table border="0" align="center">
-    <tr align="center">
-      <td>
-        <img width="500" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Holographic Developer Workspace">
-      </td>
-    </tr>
-  </table>
+  <!-- Reliable High-Speed Holographic Coding Animation -->
+  <img width="480" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Workspace" style="border-radius: 12px;" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Live Status & Metrics Bar -->
+  <!-- Live Status & Telemetry Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/NODE_STATUS-ONLINE-00ff66?style=for-the-badge&logo=statuspal&logoColor=black" alt="Status" />
     &nbsp;
@@ -39,15 +36,12 @@
     </a>
   </p>
 
-  <!-- Pulsing Audio Waveform / Cyber Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="28" alt="Audio Waveform Divider" />
-
 </div>
 
-<br/>
+---
 
 <!-- ====================================================== -->
-<!-- 🕹️ ADVANCED ANIMATED TECH RADAR (STREAMING MARQUEE)   -->
+<!-- ⚡ ADVANCED DYNAMIC TECH RADAR (LIVE MARQUEE STREAM)  -->
 <!-- ====================================================== -->
 
 ### ⚡ Dynamic Tech Radar (Live Stream)
@@ -60,7 +54,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,django,tensorflow,opencv,tailwind,html,css&theme=dark" />
   </marquee>
 
-  <br/>
+  <br/><br/>
 
   <!-- Stream Row 2 (Moving Right) -->
   <marquee behavior="scroll" direction="right" scrollamount="7">
@@ -68,11 +62,7 @@
   </marquee>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=11,19,25,32&height=20&section=footer" width="100%" />
-</div>
+---
 
 <!-- ====================================================== -->
 <!-- 🛸 ABOUT THE OPERATOR (TERMINAL VIEW)                  -->
@@ -100,31 +90,7 @@ EOF
 - 🔭 **Open-Source Active:** Ready to contribute to scalable web engines, UI component libraries, and AI developer tooling.
 - ⚡ **Collaborate:** [Schedule a conversation](mailto:lokeshwarmenati@gmail.com) on visionary projects.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=11,19,25,32&height=20&section=footer" width="100%" />
-</div>
-
-<!-- ====================================================== -->
-<!-- 🐍 RETRO SNAKE EATING GITHUB COMMITS (ACTION POWERED)  -->
-<!-- ====================================================== -->
-
-### 🐍 Contribution Arena (Snake Game Simulation)
-
-<div align="center">
-  <p><i>Real-time automated snake traversing GitHub contribution coordinates</i></p>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LokeshwarMenati/LokeshwarMenati/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LokeshwarMenati/LokeshwarMenati/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LokeshwarMenati/LokeshwarMenati/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="28" alt="Audio Waveform Divider" />
-</div>
+---
 
 <!-- ====================================================== -->
 <!-- 🛠️ FEATURED MISSION PROJECTS                           -->
@@ -144,9 +110,7 @@ EOF
 | **🖥️ Self-Healing Control Room** | `Python` `Automation` `DevOps` | Automated incident remediation engine featuring self-healing triggers. | [Source](https://github.com/LokeshwarMenati/Self-healing-control-room) • [🚀 Demo](https://frontend-lokeshwarmenatis-projects.vercel.app/) |
 | **📝 Smart Assignments** | `Python` `AI` `Web Stack` | Smart task manager streamlining assignment pipelines for students. | [Source](https://github.com/LokeshwarMenati/Smart-Assignments) • [🚀 Demo](https://smart-assignments.vercel.app/) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=11,19,25,32&height=20&section=footer" width="100%" />
-</div>
+---
 
 <!-- ====================================================== -->
 <!-- 📈 ADVANCED TELEMETRY & ANIMATED ACTIVITY GRAPHS       -->
@@ -188,9 +152,7 @@ EOF
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="28" alt="Audio Waveform Divider" />
-</div>
+---
 
 <!-- ====================================================== -->
 <!-- 🛰️ TRANSMISSION CHANNELS (CONNECT)                    -->
@@ -214,7 +176,9 @@ EOF
 
   <br/><br/>
 
-  <!-- Animated Cyber Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,25,32&height=120&section=footer" width="100%"/>
+  <!-- High Reliability Neon Footer -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=35&lines=Thank+you+for+visiting!;%3E_End+of+transmission." alt="Footer Typing" />
+  </a>
 
 </div>
