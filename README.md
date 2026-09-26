@@ -1,198 +1,157 @@
+<!-- ========================================= -->
+<!-- 🚀 HEADER BANNER & TYPING ANIMATION -->
+<!-- ========================================= -->
+
 <div align="center">
-  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=180&section=header&text=Lokeshwar%20Menati&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
+  <br/>
+  
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Lokeshwar+Menati;Passionate+Full-Stack+Developer;AI+%26+Computer+Vision+Explorer;Building+Scalable+Modern+Web+Apps" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/LokeshwarMenati">
+    <img width="460" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation">
+  </a>
+
+  <br/><br/>
+
+  [![Visitor Count](https://komarev.com/ghpvc/?username=lokeshwarmenati&color=00D2FF&style=flat-square)](https://github.com/LokeshwarMenati)
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Collaborate-22c55e?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location" />
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Lokeshwar Menati</h1>
-
-<h3 align="center">A passionate Full-Stack Developer from India.</h3>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
 
 ### 🙋‍♂️ About Me
 
-* 🔭 I’m looking to contribute to **Open Source** projects involving **Next.js**.
-* 🌱 I’m currently exploring **Full-Stack Development**.
-* ⚡ **Fun fact:** I think I am funny. Check out my repositories for proof!
+```yaml
+name: Lokeshwar Menati
+role: Full-Stack Developer
+location: India
+focus: Modern Web Apps & Artificial Intelligence
+current_goal: Contributing to open-source ecosystems (Next.js, Python, FastAPI)
+fun_fact: "I think I am funny. Check out my repositories for proof!"
+```
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
+- 🔭 **Open Source:** Passionate about contributing to projects involving **Next.js**, **React**, and **Python**.
+- 🌱 **Learning & Exploring:** Advanced Full-Stack Architecture, Real-Time Systems, and Deep Learning / CV.
+- 💬 **Ask me about:** Python, FastAPI, React, OpenCV, Database design, and automation.
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
 
 ### 💻 Tech Stack
 
+<div align="center">
+
 #### 👨‍💻 Programming Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript&theme=dark" />
+</a>
 
-<p align="left">
-  <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />   </a> </p>
+<br/>
 
+#### 🌐 Web Frameworks & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,html,css,bootstrap,tailwind&theme=dark" />
+</a>
 
-#### 🌐 Frontend & Backend
+<br/>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,django,fastapi" />
-  </a>
-</p>
+#### 🤖 AI, Machine Learning & Computer Vision
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+</a>
 
+<br/>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-  </a>
-</p>
+#### 🗄️ Databases & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" />
+</a>
 
-
-#### 🗄️ Databases
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  </a>
-</p>
-
+<br/>
 
 #### 🔧 Tools & Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,arduino&theme=dark" />
+</a>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
+
+### 🛠 Featured Projects
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **🤖 AI Personal Assistant for Students** | `Python` `AI` `ML` | Smart student-focused assistant for academic productivity & workflows. | [Repo](https://github.com/LokeshwarMenati/AI-Personal-Assistant-for-Students) • [Live Demo](https://ai-personal-assistant-for-students.vercel.app/) |
+| **👁️ AI Face Recognition Attendance** | `Python` `OpenCV` `LBPH` `MySQL` | Automated biometric attendance logging using real-time computer vision. | [Repo](https://github.com/LokeshwarMenati/AI-Powered-Face-Recognition-Attendance-System) • [Live Demo](https://ai-powered-face-recognition-attenda-six.vercel.app/) |
+| **📊 Intelligent Prompt-to-Visualization** | `FastAPI` `React` `Plotly` `Pandas` | Converts natural-language user queries into dynamic interactive chart visuals. | [Repo](https://github.com/LokeshwarMenati/Intelligent-Prompt-to-Visualization-Agent) • [Live Demo](https://intelligent-prompt-to-visualization-eight.vercel.app/) |
+| **📄 Resume.ai Maker** | `Python` `AI` `JavaScript` `CSS` | Intelligent resume-building platform that formats and organizes CV content. | [Repo](https://github.com/LokeshwarMenati/Resume.ai-maker) • [Live Demo](https://frontend-sand-eight-xya4czd8dy.vercel.app/) |
+| **🧪 PRIMEFORM LABS** | `HTML5` `CSS3` `JavaScript` | Modern, responsive, interactive digital laboratory and utility experience. | [Repo](https://github.com/LokeshwarMenati/PRIMEFORM-LABS) • [Live Demo](https://primeform.netlify.app/) |
+| **🎨 CraftCV.ai** | `AI` `Python` `HTML` `CSS` `JS` | AI-assisted CV generation suite for polished and professional resumes. | [Repo](https://github.com/LokeshwarMenati/CraftCV.ai) • [Live Demo](https://craft-cv-ai.vercel.app/) |
+| **💰 Smart Expense Tracker API** | `Python` `FastAPI` `REST` `SQL` | High-performance backend API for categorizing and auditing personal finance. | [Repo](https://github.com/LokeshwarMenati/Smart-Expense-Tracker-API) • [Live Demo](https://smart-expense-tracker-api-brown.vercel.app/) |
+| **🖥️ Self-Healing Control Room** | `Python` `Automation` `Monitoring` | Autonomous recovery workflows and incident monitoring control station. | [Repo](https://github.com/LokeshwarMenati/Self-healing-control-room) • [Live Demo](https://frontend-lokeshwarmenatis-projects.vercel.app/) |
+| **📝 Smart Assignments** | `Python` `AI` `JavaScript` `CSS` | Digital platform assisting students in managing assignment submission schedules. | [Repo](https://github.com/LokeshwarMenati/Smart-Assignments) • [Live Demo](https://smart-assignments.vercel.app/) |
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lokeshwarmenati&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
   </a>
-</p>
 
+  <br/><br/>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
-
-### 🛠 Projects
-
-#### 🤖 [AI Personal Assistant for Students](https://github.com/LokeshwarMenati/AI-Personal-Assistant-for-Students)
-
-> An AI-powered assistant designed to help students with academic tasks and everyday productivity.
-> Provides intelligent assistance through a student-focused application.
-
-* **Tech Stack:** Python, AI, Machine Learning
-
-🔗 **Live Demo:** [View here](https://ai-personal-assistant-for-students.vercel.app/)
-
----
-
-#### 👁️ [AI-Powered Face Recognition Attendance System](https://github.com/LokeshwarMenati/AI-Powered-Face-Recognition-Attendance-System)
-
-> An automated attendance system that uses facial recognition to identify users and record attendance.
-> Uses computer vision and database integration to automate attendance management.
-
-* **Tech Stack:** Python, OpenCV, LBPH Face Recognition, SQLite, MySQL
-
-🔗 **Live Demo:** [View here](https://ai-powered-face-recognition-attenda-six.vercel.app/)
-
----
-
-#### 📊 [Intelligent Prompt-to-Visualization Agent](https://github.com/LokeshwarMenati/Intelligent-Prompt-to-Visualization-Agent)
-
-> A web application that converts natural-language prompts into interactive data visualizations.
-> Generates charts from datasets based on user prompts and supports interactive visualization.
-
-* **Tech Stack:** Python, FastAPI, React.js, Plotly, Pandas, Matplotlib, Prompt Engineering
-
-🔗 **Live Demo:** [View here](https://intelligent-prompt-to-visualization-eight.vercel.app/)
-
----
-
-#### 📄 [Resume.ai Maker](https://github.com/LokeshwarMenati/Resume.ai-maker)
-
-> An AI-assisted resume-building application designed to help users create professional resumes.
-> Provides a structured workflow for creating and organizing resume content.
-
-* **Tech Stack:** Python, AI, HTML, CSS, JavaScript
-
-🔗 **Live Demo:** [View here](https://frontend-sand-eight-xya4czd8dy.vercel.app/)
-
----
-
-#### 🧪 [PRIMEFORM LABS](https://github.com/LokeshwarMenati/PRIMEFORM-LABS)
-
-> A web-based application focused on providing an interactive digital experience.
-> Designed with a responsive interface and practical user functionality.
-
-* **Tech Stack:** HTML, CSS, JavaScript
-
-🔗 **Live Demo:** [View here](https://primeform.netlify.app/)
-
----
-
-#### 🎨 [CraftCV.ai](https://github.com/LokeshwarMenati/CraftCV.ai)
-
-> An AI-powered CV creation platform designed to help users build professional resumes.
-> Helps organize resume information into a structured CV format.
-
-* **Tech Stack:** AI, Python, HTML, CSS, JavaScript
-
-🔗 **Live Demo:** [View here](https://craft-cv-ai.vercel.app/)
-
----
-
-#### 💰 [Smart Expense Tracker API](https://github.com/LokeshwarMenati/Smart-Expense-Tracker-API)
-
-> A backend API designed to manage and organize personal expense records.
-> Provides API-based functionality for expense tracking and data management.
-
-* **Tech Stack:** Python, FastAPI, REST API, SQL
-
-🔗 **Live Demo:** [View here](https://smart-expense-tracker-api-brown.vercel.app/)
-
----
-
-#### 🖥️ [Self-Healing Control Room](https://github.com/LokeshwarMenati/Self-healing-control-room)
-
-> A monitoring-focused application designed around system monitoring and automated recovery workflows.
-> Combines monitoring, troubleshooting, and automation concepts to improve system reliability.
-
-* **Tech Stack:** Python, System Monitoring, Automation
-
-🔗 **Live Demo:** [View here](https://frontend-lokeshwarmenatis-projects.vercel.app/)
-
----
-
-#### 📝 [Smart Assignments](https://github.com/LokeshwarMenati/Smart-Assignments)
-
-> A smart academic application designed to help students manage assignment-related tasks.
-> Provides a digital workflow for organizing academic assignments and improving productivity.
-
-* **Tech Stack:** Python, AI, HTML, CSS, JavaScript
-
-🔗 **Live Demo:** [View here](https://smart-assignments.vercel.app/)
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
-
-### 📊 GitHub Stats
-
-![Visitor Count](https://komarev.com/ghpvc/?username=lokeshwarmenati\&color=blue)<br/>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lokeshwarmenati)](https://github.com/ryo-ma/github-profile-trophy)<br/>
-
-![Lokeshwar's Stats](https://github-readme-stats.vercel.app/api?username=lokeshwarmenati\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwarmenati\&layout=compact\&theme=radical)
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
-
-### 📬 Reach Me
-
-<p align="left">
+  <!-- Animated Streak Stats -->
   <a href="https://github.com/LokeshwarMenati">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshwarmenati&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://www.linkedin.com/in/lokeshwarmenati/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+
+  <br/><br/>
+
+  <!-- Stats & Top Languages -->
+  <a href="https://github.com/LokeshwarMenati">
+    <img src="https://github-readme-stats.vercel.app/api?username=lokeshwarmenati&show_icons=true&theme=radical&hide_border=true" alt="Lokeshwar's Stats" />
   </a>
-  <a href="mailto:lokeshwarmenati@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+  &nbsp;
+  <a href="https://github.com/LokeshwarMenati">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwarmenati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,24,38&height=25&section=footer" width="100%" />
+
+### 📬 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/LokeshwarMenati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lokeshwarmenati/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lokeshwarmenati@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=100&section=footer" width="100%"/>
+
+</div>
