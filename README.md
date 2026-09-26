@@ -26,7 +26,7 @@
   <!-- Live Status & Portfolio Badges -->
   <p align="center">
     <a href="https://lokeshwarmenati.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_SHOWCASE-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
     </a>
     &nbsp;
     <img src="https://img.shields.io/badge/NODE_STATUS-ONLINE-00ff66?style=for-the-badge&logo=statuspal&logoColor=black" alt="Status" />
@@ -152,7 +152,7 @@ EOF
 <div align="center">
 
   <a href="https://lokeshwarmenati.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-lokeshwarmenati.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/LokeshwarMenati" target="_blank">
