@@ -36,7 +36,6 @@
   </a>
 </p>
 
-#### 🤖 AI, ML & Data Visualization
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -62,11 +61,6 @@
   </a>
 </p>
 
-
-
-<p>
-  <strong>Additional:</strong> Arduino IDE, ESP8266, Linux, Windows
-</p>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
