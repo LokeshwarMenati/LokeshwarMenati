@@ -112,7 +112,7 @@ EOF
 | [**💰 Smart Expense Tracker API**](https://github.com/LokeshwarMenati/Smart-Expense-Tracker-API) | `Python` `FastAPI` `SQL` `REST` | Ultra-fast financial microservice providing analytics endpoints. | [Link ↗](https://smart-expense-tracker-api-brown.vercel.app/) |
 | [**🖥️ Self-Healing Control Room**](https://github.com/LokeshwarMenati/Self-healing-control-room) | `Python` `Automation` `DevOps` | Automated incident remediation engine featuring self-healing triggers. | [Link ↗](https://frontend-lokeshwarmenatis-projects.vercel.app/) |
 | [**📝 Smart Assignments**](https://github.com/LokeshwarMenati/Smart-Assignments) | `Python` `AI` `Web Stack` | Smart task manager streamlining assignment pipelines for students. | [Link ↗](https://smart-assignments.vercel.app/) |
-| [**📝 ShopSphere**](https://github.com/LokeshwarMenati/ShopSphere) | `Python` `SQL` `HTML` | E-commerce Sales, Customer & Business Performance Analytics. | [Link ↗](https://shop-sphere-xi-ivory.vercel.app/)) |
+| [**💻 ShopSphere**](https://github.com/LokeshwarMenati/ShopSphere) | `Python` `SQL` `HTML` | E-commerce Sales, Customer & Business Performance Analytics. | [Link ↗](https://shop-sphere-xi-ivory.vercel.app/)) |
 | [**📲 TaskFlow**](https://github.com/LokeshwarMenati/TaskFlow) | `React Native` `Node.js` `MongoDB` `TypeScript` | Full-Stack Android To-Do Platform. | [Link ↗](https://github.com/LokeshwarMenati/TaskFlow/)) |
 
 
